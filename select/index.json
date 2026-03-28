@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "dance now!",
+  "base_artist": "chilldspot",
+  "createdAt": "2026-03-28T10:05:44.963145Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C+C Music Factory",
+      "has_synced": true,
+      "path": "select/01_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_C+C_Music_Factory.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now) [Rasio Edit]",
+      "artist": "C+C Music Factory feat. Freedom Williams",
+      "has_synced": true,
+      "path": "select/02_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_[Rasio_Edit]_C+C_Music_Factory_feat._Freedom_Williams.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now) (feat. Freedom Williams) (Radio Mix)",
+      "artist": "C+C Music Factory",
+      "has_synced": true,
+      "path": "select/03_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_(feat._Freedom_Williams)_(Radio_Mix)_C+C_Music_Factory.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now) (Explicit)",
+      "artist": "C+C Music Factory",
+      "has_synced": true,
+      "path": "select/04_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_(Explicit)_C+C_Music_Factory.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Eveybody Dance Now)",
+      "artist": "C & C Music Factory",
+      "has_synced": true,
+      "path": "select/05_Gonna_Make_You_Sweat_(Eveybody_Dance_Now)_C_&_C_Music_Factory.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Everybody Dance Now",
+      "artist": "C+C Music Factory",
+      "has_synced": false,
+      "path": "select/06_Everybody_Dance_Now_C+C_Music_Factory.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Everybody Dance Now",
+      "artist": "C & C Music Factory",
+      "has_synced": false,
+      "path": "select/07_Everybody_Dance_Now_C_&_C_Music_Factory.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C & C Music Factory feat. Freedom Williams",
+      "has_synced": true,
+      "path": "select/08_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_C_&_C_Music_Factory_feat._Freedom_Williams.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C & C Music Factory",
+      "has_synced": true,
+      "path": "select/09_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_C_&_C_Music_Factory.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat [Everybody Dance Now]",
+      "artist": "C+C Music Factory",
+      "has_synced": true,
+      "path": "select/10_Gonna_Make_You_Sweat_[Everybody_Dance_Now]_C+C_Music_Factory.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C & C Music Factory Featurng Freedom Williams",
+      "has_synced": true,
+      "path": "select/11_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_C_&_C_Music_Factory_Featurng_Freedom_Williams.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now)",
+      "artist": "C+C Music Factory feat. Freedom Williams",
+      "has_synced": true,
+      "path": "select/12_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_C+C_Music_Factory_feat._Freedom_Williams.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now) [feat. Freedom Williams] [Radio Mix]",
+      "artist": "C+C Music Factory",
+      "has_synced": false,
+      "path": "select/13_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_[feat._Freedom_Williams]_[Radio_Mix]_C+C_Music_Factory.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Too Cool To Dance (NOW What’s Next!)",
+      "artist": "Eden xo",
+      "has_synced": true,
+      "path": "select/14_Too_Cool_To_Dance_(NOW_What’s_Next!)_Eden_xo.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Gonna Make You Sweat (Everybody Dance Now) [feat. Freedom Williams] [Radio Mix]",
+      "artist": "C+C Music Factory; Freedom Williams",
+      "has_synced": false,
+      "path": "select/15_Gonna_Make_You_Sweat_(Everybody_Dance_Now)_[feat._Freedom_Williams]_[Radio_Mix]_C+C_Music_Factory;_Freedom_Williams.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Rock This Party (Everybody Dance Now)",
+      "artist": "Bob Sinclar feat. Cutee B, DollarMan, Big Ali & Makedah",
+      "has_synced": true,
+      "path": "select/16_Rock_This_Party_(Everybody_Dance_Now)_Bob_Sinclar_feat._Cutee_B,_DollarMan,_Big_Ali_&_Makedah.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Rock This Party (Everybody Dance Now)",
+      "artist": "Bob Sinclar, Cutee B, Dollarman, Big Ali, Makedah",
+      "has_synced": true,
+      "path": "select/17_Rock_This_Party_(Everybody_Dance_Now)_Bob_Sinclar,_Cutee_B,_Dollarman,_Big_Ali,_Makedah.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Rock this party (Everybody dance now)",
+      "artist": "Bob Sinclar",
+      "has_synced": false,
+      "path": "select/18_Rock_this_party_(Everybody_dance_now)_Bob_Sinclar.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "dance now!",
+      "artist": "chilldspot",
+      "has_synced": false,
+      "path": "select/pl_01_dance_now!_chilldspot.txt"
+    }
+  ]
+}
